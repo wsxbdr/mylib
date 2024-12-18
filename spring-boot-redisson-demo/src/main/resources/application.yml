@@ -1,0 +1,12 @@
+server:
+  port: 8062
+spring:
+  application:
+    name: spring-boot-redisson-demo
+  redis:
+    database: 0
+    host: 192.168.29.130
+    password:
+    port: 6399
+    redisson:
+      file: classpath:redisson.yml
