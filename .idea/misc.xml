@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-mybatis-plus-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jackson-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-redisson-demo/pom.xml" />
       </list>
     </option>
   </component>
